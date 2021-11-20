@@ -1,0 +1,5 @@
+<?php
+
+print "HELLO PEOPLE THIS IS CREATED BY TERRAFORM";
+
+?>
